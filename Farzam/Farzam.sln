@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30114.105
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "Farzam", "Farzam.njsproj", "{7E92EE52-3A94-45BF-B0BD-6EE78D5CAE62}"
+Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "Farzam", "Farzam.njsproj", "{EC28B712-D757-482B-A66F-65D478DF73EC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{7E92EE52-3A94-45BF-B0BD-6EE78D5CAE62}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{7E92EE52-3A94-45BF-B0BD-6EE78D5CAE62}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{7E92EE52-3A94-45BF-B0BD-6EE78D5CAE62}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{7E92EE52-3A94-45BF-B0BD-6EE78D5CAE62}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EC28B712-D757-482B-A66F-65D478DF73EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC28B712-D757-482B-A66F-65D478DF73EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC28B712-D757-482B-A66F-65D478DF73EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC28B712-D757-482B-A66F-65D478DF73EC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {0971186C-396B-4825-9EF7-C15C97DCE461}
+		SolutionGuid = {C9F236D2-696F-45CF-83BA-0B72151A4AD9}
 	EndGlobalSection
 EndGlobal
