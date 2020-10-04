@@ -1,0 +1,9 @@
+{
+  "name": "farzam",
+  "version": "0.0.0",
+  "description": "Farzam",
+  "main": "server.js",
+  "author": {
+    "name": ""
+  }
+}
